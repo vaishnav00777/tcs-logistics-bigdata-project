@@ -1,0 +1,4 @@
+vehicle_id,expected_delivery_time,actual_delivery_time,route_id
+1,5,6,A
+2,4,4,B
+3,3,5,A
